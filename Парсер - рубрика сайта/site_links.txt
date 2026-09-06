@@ -1,0 +1,66 @@
+СПИСОК ССЫЛОК ИЗ HTML:
+==================================================
+
+1. https://njuans-tatarskaja-ulitsa.clients.site/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://njuans-tatarskaja-ulitsa.clients.si...
+------------------------------
+2. https://sonniyzaliv.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://sonniyzaliv.ru/" target="_blank">
+<...
+------------------------------
+3. https://dveri-absolut.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://dveri-absolut.ru/" target="_blank">...
+------------------------------
+4. https://ge-el.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://ge-el.ru/" target="_blank">
+<span c...
+------------------------------
+5. https://lagnamed.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://lagnamed.ru/" target="_blank">
+<spa...
+------------------------------
+6. https://zaemcreditka.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://zaemcreditka.ru/" target="_blank">
+...
+------------------------------
+7. https://avtoservis-laboratornyj-prospekt.clients.site/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://avtoservis-laboratornyj-prospekt.cl...
+------------------------------
+8. https://tantsuj-kavkaz-1757676064.clients.site/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://tantsuj-kavkaz-1757676064.clients.s...
+------------------------------
+9. https://beprint.spb.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://beprint.spb.ru/" target="_blank">
+<...
+------------------------------
+10. https://premer-dent-1757677047.clients.site/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://premer-dent-1757677047.clients.site...
+------------------------------
+11. https://sushibainu.ru/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://sushibainu.ru/" target="_blank">
+<s...
+------------------------------
+12. https://shaurma-giros-burger.clients.site/
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://shaurma-giros-burger.clients.site/"...
+------------------------------
+13. https://mrqz.me/dreamers
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://mrqz.me/dreamers" target="_blank">
+...
+------------------------------
+14. https://mst.link/sheremeteva_polina1
+   Текст кнопки: Перейти на сайт
+   Элемент: <a class="button button_size_M button_type_action" href="https://mst.link/sheremeteva_polina1" targe...
+------------------------------
